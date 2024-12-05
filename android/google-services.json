@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "779151419426",
+    "project_id": "nawaurjaseel",
+    "storage_bucket": "nawaurjaseel.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779151419426:android:d1ef8e4b6e81a62136c27b",
+        "android_client_info": {
+          "package_name": "com.example.nss"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbUatg-PSHuwQ_8EtIFkW7Kn_ZdZKLw30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
